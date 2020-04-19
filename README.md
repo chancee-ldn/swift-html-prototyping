@@ -146,7 +146,7 @@ Save and close your swift file and we're kind of done. All being well you can ru
 
 ```bash
 swift assemble.swift
-```.
+```
 
 I've tried to keep this as self contained as possible, but if anything has gone whoosh feel free to hmu on [twitter](https://twitter.com/chanc3e) or [insta](https://www.instagram.com/chancee.ldn/).
 
